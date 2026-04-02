@@ -224,6 +224,8 @@ pip install pandas matplotlib scikit-learn
 5. Add automated tests for loader and transformation logic.
 
 ---
+## Loan Data Analysis Paragraph 
+The visualizations indicate that approximately 79.0% of loans are approved and 21.0% are not approved. The income boxplot (using a log scale) shows substantial overlap between groups; the median income for approved applications is 60,000, compared with 42,000 for non-approved applications, suggesting income alone is not a complete explanation of approval outcomes. The credit-history chart shows the clearest pattern, with approval rates ranging from about 20.1% to 62.9% across groups. These conclusions are supported by the approval distribution chart, the income-by-status boxplot, and the approval-rate comparison by credit history.
 
 ## Author Notes
 This README is designed to clearly communicate purpose, structure, implementation choices, and known constraints for grading and project review.
